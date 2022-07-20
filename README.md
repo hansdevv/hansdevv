@@ -1,23 +1,3 @@
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Student
-├─▣ Gamers
-├─▣ 
-├─▣ 
-│
-└───────────────────────────────▰▰▰
+Assalamu'alaikum wr.wb
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ Twitter
-├─◈ YouTube
-├─◈ Telegram
-├─◈ Instagram
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ 
-│
-└───────────────────────────────▰▰▰
+Hi, i'm Mohamad Burhanudin...
