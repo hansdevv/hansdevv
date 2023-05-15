@@ -2,6 +2,8 @@ Assalamu'alaikum wr.wb
 
 Hi, i'm Mohamad Burhanudin...
 
+<p align="center">here's what i've tried...</p>
+
 # <p align="center">Programming Language</p>
 <p align="center">
   <a href="https://skillicons.dev">
