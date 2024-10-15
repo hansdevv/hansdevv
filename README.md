@@ -2,12 +2,12 @@ Assalamu'alaikum wr.wb
 
 Hi, i'm Mohamad Burhanudin...
 
-<!--<p align="center">here's what i've tried...</p>
+<p align="center">I've tried it</p>
 
 # <p align="center">Programming Language</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,html,css,js,dart,kotlin" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,dart" />
   </a>
 </p>
 
@@ -31,10 +31,11 @@ Hi, i'm Mohamad Burhanudin...
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,selenium,postman,androidstudio,flutter" />
   </a>
 </p>
--->
+<!--
 # coffee treats?
  ![image](https://github.com/mohamadburhan151/mohamadburhan151/assets/73084755/28f16083-374e-4bfa-a9c9-c102782ae6ac)
  
  https://saweria.co/bhe151
  
  https://sociabuzz.com/bheofficial/tribe
+-->
